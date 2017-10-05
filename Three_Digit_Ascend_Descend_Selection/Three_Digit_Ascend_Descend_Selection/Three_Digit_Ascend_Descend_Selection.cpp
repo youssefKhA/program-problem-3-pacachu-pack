@@ -1,6 +1,6 @@
 /*
 
-Sam Bryant - 10/5/17 - 2
+Sam Bryant & Dorothy Bui - 10/5/17 - 2
 
 Assignment Name : Three digit Ascend Descend Selection
 
