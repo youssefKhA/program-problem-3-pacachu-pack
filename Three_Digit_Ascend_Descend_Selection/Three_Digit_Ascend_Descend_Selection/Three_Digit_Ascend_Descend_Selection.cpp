@@ -40,11 +40,11 @@ void main() {
 	int digit1;
 	int digit2;
 	int digit3;
-
+	// would be easier if it were ABC as instructed
 	//ask for variable
 
 	cout << "Give me a three digit number!" << endl;
-	
+
 	// take in variable
 
 	cin >> userNumber;
